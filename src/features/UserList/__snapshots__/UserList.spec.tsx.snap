@@ -1,0 +1,340 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Make snapshot. Render with data 1`] = `
+<div>
+  <div
+    class="root"
+  >
+    <div
+      class="root"
+    >
+      <div
+        class="mainInfoContainer"
+      >
+        <img
+          alt="Geordan Aaryn"
+          class="avatar"
+          src="1.jpg"
+        />
+        <div
+          class="wrapper"
+        >
+          <span
+            class="name"
+          >
+            Geordan Aaryn
+          </span>
+          <span
+            class="nickName"
+          >
+            @geordanaaryn
+          </span>
+        </div>
+      </div>
+      <button
+        class="button"
+        data-testid="Geordan Aaryn view button"
+      >
+        View
+      </button>
+    </div>
+    <div
+      class="root"
+    >
+      <div
+        class="mainInfoContainer"
+      >
+        <img
+          alt="Brazil Izair"
+          class="avatar"
+          src="2.jpg"
+        />
+        <div
+          class="wrapper"
+        >
+          <span
+            class="name"
+          >
+            Brazil Izair
+          </span>
+          <span
+            class="nickName"
+          >
+            @brazilizair
+          </span>
+        </div>
+      </div>
+      <button
+        class="button"
+        data-testid="Brazil Izair view button"
+      >
+        View
+      </button>
+    </div>
+    <div
+      class="root"
+    >
+      <div
+        class="mainInfoContainer"
+      >
+        <img
+          alt="Selman Winston"
+          class="avatar"
+          src="3.jpg"
+        />
+        <div
+          class="wrapper"
+        >
+          <span
+            class="name"
+          >
+            Selman Winston
+          </span>
+          <span
+            class="nickName"
+          >
+            @selmanwinston
+          </span>
+        </div>
+      </div>
+      <button
+        class="button"
+        data-testid="Selman Winston view button"
+      >
+        View
+      </button>
+    </div>
+    <div
+      class="root"
+    >
+      <div
+        class="mainInfoContainer"
+      >
+        <img
+          alt="Kaine Dutch"
+          class="avatar"
+          src="4.jpg"
+        />
+        <div
+          class="wrapper"
+        >
+          <span
+            class="name"
+          >
+            Kaine Dutch
+          </span>
+          <span
+            class="nickName"
+          >
+            @kainedutch
+          </span>
+        </div>
+      </div>
+      <button
+        class="button"
+        data-testid="Kaine Dutch view button"
+      >
+        View
+      </button>
+    </div>
+    <div
+      class="root"
+    >
+      <div
+        class="mainInfoContainer"
+      >
+        <img
+          alt="Kerby Linton"
+          class="avatar"
+          src="5.jpg"
+        />
+        <div
+          class="wrapper"
+        >
+          <span
+            class="name"
+          >
+            Kerby Linton
+          </span>
+          <span
+            class="nickName"
+          >
+            @kerbylinton
+          </span>
+        </div>
+      </div>
+      <button
+        class="button"
+        data-testid="Kerby Linton view button"
+      >
+        View
+      </button>
+    </div>
+    <div
+      class="root"
+    >
+      <div
+        class="mainInfoContainer"
+      >
+        <img
+          alt="Gilad Delvon"
+          class="avatar"
+          src="6.jpg"
+        />
+        <div
+          class="wrapper"
+        >
+          <span
+            class="name"
+          >
+            Gilad Delvon
+          </span>
+          <span
+            class="nickName"
+          >
+            @giladdelvon
+          </span>
+        </div>
+      </div>
+      <button
+        class="button"
+        data-testid="Gilad Delvon view button"
+      >
+        View
+      </button>
+    </div>
+    <div
+      class="root"
+    >
+      <div
+        class="mainInfoContainer"
+      >
+        <img
+          alt="Augusto Castor"
+          class="avatar"
+          src="7.jpg"
+        />
+        <div
+          class="wrapper"
+        >
+          <span
+            class="name"
+          >
+            Augusto Castor
+          </span>
+          <span
+            class="nickName"
+          >
+            @augustocastor
+          </span>
+        </div>
+      </div>
+      <button
+        class="button"
+        data-testid="Augusto Castor view button"
+      >
+        View
+      </button>
+    </div>
+    <div
+      class="root"
+    >
+      <div
+        class="mainInfoContainer"
+      >
+        <img
+          alt="Zian Khyre"
+          class="avatar"
+          src="8.jpg"
+        />
+        <div
+          class="wrapper"
+        >
+          <span
+            class="name"
+          >
+            Zian Khyre
+          </span>
+          <span
+            class="nickName"
+          >
+            @ziankhyre
+          </span>
+        </div>
+      </div>
+      <button
+        class="button"
+        data-testid="Zian Khyre view button"
+      >
+        View
+      </button>
+    </div>
+    <div
+      class="root"
+    >
+      <div
+        class="mainInfoContainer"
+      >
+        <img
+          alt="Sheldon Neiko"
+          class="avatar"
+          src="9.jpg"
+        />
+        <div
+          class="wrapper"
+        >
+          <span
+            class="name"
+          >
+            Sheldon Neiko
+          </span>
+          <span
+            class="nickName"
+          >
+            @sheldonneiko
+          </span>
+        </div>
+      </div>
+      <button
+        class="button"
+        data-testid="Sheldon Neiko view button"
+      >
+        View
+      </button>
+    </div>
+    <div
+      class="root"
+    >
+      <div
+        class="mainInfoContainer"
+      >
+        <img
+          alt="Berenger Altay"
+          class="avatar"
+          src="10.jpg"
+        />
+        <div
+          class="wrapper"
+        >
+          <span
+            class="name"
+          >
+            Berenger Altay
+          </span>
+          <span
+            class="nickName"
+          >
+            @berengeraltay
+          </span>
+        </div>
+      </div>
+      <button
+        class="button"
+        data-testid="Berenger Altay view button"
+      >
+        View
+      </button>
+    </div>
+  </div>
+</div>
+`;

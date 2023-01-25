@@ -1,0 +1,88 @@
+.root {
+  max-width: 400px;
+  max-height: 500px;
+  margin: auto;
+  margin-top: 50px;
+  border: 1px solid lightgray;
+  padding: 30px 15px 15px 15px;
+  position: relative;
+}
+
+.userAboutContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.name {
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 5px;
+}
+
+.position {
+  font-size: 14px;
+  color: darkgray;
+  margin-top: 3px;
+}
+
+.divider {
+  height: 1px;
+  background: lightgray;
+  margin: 20px 0;
+}
+
+.sendButton {
+  margin: auto;
+  border: none;
+  border-radius: 6px;
+  width: 100%;
+  color: white;
+  background: rgb(15, 122, 158);
+  padding: 10px;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.sendButton:hover {
+  opacity: 0.8;
+}
+
+.privateInfoName {
+  font-size: 16px;
+  margin-right: 20px;
+  font-weight: 600;
+  display: block;
+  width: 50px;
+}
+
+.userPrivateInfoItem {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.blue {
+  color: rgb(44, 40, 241);
+}
+
+.closeButton {
+  font-weight: 600;
+  font-size: 22px;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+
+.closeButton:hover {
+  opacity: 0.8;
+}

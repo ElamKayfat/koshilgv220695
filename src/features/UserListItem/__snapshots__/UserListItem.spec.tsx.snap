@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Make snapshot. Render with data 1`] = `
+<div>
+  <div
+    class="root"
+  >
+    <div
+      class="mainInfoContainer"
+    >
+      <img
+        alt="Geordan Aaryn"
+        class="avatar"
+        src="1.jpg"
+      />
+      <div
+        class="wrapper"
+      >
+        <span
+          class="name"
+        >
+          Geordan Aaryn
+        </span>
+        <span
+          class="nickName"
+        >
+          @geordanaaryn
+        </span>
+      </div>
+    </div>
+    <button
+      class="button"
+      data-testid="Geordan Aaryn view button"
+    >
+      View
+    </button>
+  </div>
+</div>
+`;

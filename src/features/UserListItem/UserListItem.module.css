@@ -1,0 +1,52 @@
+.root {
+  max-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 10px;
+}
+
+.root:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.wrapper {
+  margin-left: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.button {
+  width: 50px;
+  height: 25px;
+  border: 1px solid lightgray;
+  border-radius: 6px;
+  color: black;
+  background: white;
+  cursor: pointer;
+}
+
+.button:hover {
+  opacity: 0.7;
+}
+
+.mainInfoContainer {
+  display: flex;
+}
+
+.name {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.nickName {
+  font-size: 14px;
+  color: darkgray;
+}

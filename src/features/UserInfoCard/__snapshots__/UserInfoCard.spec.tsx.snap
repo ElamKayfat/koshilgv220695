@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Make snapshot. Render with data 1`] = `
+<div>
+  <div
+    class="root"
+  >
+    <div
+      class="closeButton"
+      data-testid="close-button"
+    >
+      x
+    </div>
+    <div
+      class="userAboutContainer"
+    >
+      <img
+        alt="Brazil Izair"
+        class="photo"
+        src="2.jpg"
+      />
+      <span
+        class="name"
+      >
+        Brazil Izair
+      </span>
+      <span
+        class="position"
+      >
+        Managing Director
+      </span>
+    </div>
+    <div
+      class="divider"
+    />
+    <div
+      class="userPrivateInfoContainer"
+    >
+      <div
+        class="userPrivateInfoItem"
+      >
+        <span
+          class="privateInfoName"
+        >
+          Phone
+        </span>
+        <span
+          class="privateInfoValue"
+        >
+          902-782-3286
+        </span>
+      </div>
+      <div
+        class="userPrivateInfoItem"
+      >
+        <span
+          class="privateInfoName"
+        >
+          Url
+        </span>
+        <span
+          class="privateInfoValueblue blue"
+        >
+          https://example.com
+        </span>
+      </div>
+      <div
+        class="userPrivateInfoItem"
+      >
+        <span
+          class="privateInfoName"
+        >
+          Email
+        </span>
+        <span
+          class="privateInfoValueblue blue"
+        >
+          brazil.izair@fallinhay.com
+        </span>
+      </div>
+    </div>
+    <button
+      class="sendButton"
+    >
+      Send message
+    </button>
+  </div>
+</div>
+`;

@@ -1,2 +1,9 @@
 # koshilgv220695
-Testing app
+Download project
+
+Input next commands:
+yarn install
+yarn start
+
+For tests:
+yarn test
